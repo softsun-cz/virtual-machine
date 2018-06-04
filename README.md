@@ -4,12 +4,13 @@
 
 Installed and preconfigured software:
 - QEMU / KVM (virtual machine)
-- nginx + PHP 7.0 (web server for web administration)
-- libvirt
-- libvirt-php
+- nginx (web server)
+- PHP (web script preprocessor)
+- libvirt (VM API libraries)
+- libvirt-php (VM API implementation in PHP)
 - SSH server (remote console access)
 - FERM (firewall)
-- few other packages and its dependencies
+- few other minor packages and its dependencies
 
 # How to install
 
