@@ -24,8 +24,8 @@ chmod +x ./install.sh
 ./install.sh
 ```
 
-3. This script will automatically reboot server after installation
-4. Access the server web administration (https://[YOUR-SERVER-IP]) from your web browser on your client machine
+3. This script will automatically reboot your server after the installation
+4. Access your server web administration from your web browser on your client machine via https://[YOUR-SERVER-IP]
 5. Log in as "root" with the same password you use when accessing server shell
 
 # License
