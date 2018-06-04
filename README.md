@@ -17,6 +17,7 @@ Installed and preconfigured software:
 2. Log in and run:
 
 ```sh
+apt-get -y install git
 git clone https://github.com/softsun-cz/virtual-machine.git
 cd virtual-machine
 ./install.sh
