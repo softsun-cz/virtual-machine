@@ -14,7 +14,7 @@ Installed and preconfigured software:
 
 # How to install
 
-1. Install [Debian Linux 9.x from "netinst" minimal installation ISO image](https://www.debian.org/CD/netinst/) on your server
+1. Install [**Debian Linux 9.x from "netinst" minimal installation ISO image**](https://www.debian.org/CD/netinst/) on your server
 2. Log in and run:
 
 ```sh
@@ -31,4 +31,4 @@ chmod +x ./install.sh
 
 # License
 
-This software is developed as open source under [MIT License](./LICENSE)
+This software is developed as open source under [**MIT License**](./LICENSE)
