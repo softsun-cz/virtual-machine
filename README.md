@@ -3,6 +3,7 @@
 **Softsun Virtual Machine** (Softsun VM) is a shell installation script for Debian Linux that helps you to easily install Virtual Machine environment on your server. It is designed for **Debian Linux 9 x64**, other versions / architectures of Debian or other Linux distributions might require some changes in script, otherwise it probably will not work.
 
 Installed and preconfigured software:
+- Softsun VM Web UI
 - QEMU / KVM
 - SSH server
 - nginx
