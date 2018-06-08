@@ -10,7 +10,6 @@ Installed and preconfigured software:
 - PHP
 - libvirt
 - libvirt-php
-- FERM
 - few other minor packages and its dependencies
 
 # How to install
