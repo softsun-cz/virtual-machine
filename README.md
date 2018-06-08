@@ -20,7 +20,7 @@ Installed and preconfigured software:
 
 ```sh
 apt-get -y install git
-git clone https://github.com/softsun-cz/virtual-machine.git
+git clone https://github.com/softsun-cz/vm-install.git
 cd virtual-machine 
 chmod +x ./install.sh
 ./install.sh
