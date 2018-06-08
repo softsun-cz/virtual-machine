@@ -4,10 +4,10 @@
 
 Installed and preconfigured software:
 - Softsun VM Web UI
-- QEMU / KVM
-- SSH server
+- qemu-kvm
+- ssh
 - nginx
-- PHP
+- php
 - libvirt
 - libvirt-php
 - few other minor packages and its dependencies
