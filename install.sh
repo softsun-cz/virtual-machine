@@ -15,7 +15,7 @@ echo -ne '' > /etc/motd
 rm /etc/update-motd.d/10-uname
 cd /usr/src/
 git clone https://github.com/softsun-cz/vm-webui.git
-mv vm-webui/src/* /var/www/html/
+mv vm-webui/src/* /var/www/
 rm -rf vm-webui
 
 cat << EOF > /etc/nginx/sites-enabled/default
