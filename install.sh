@@ -4,7 +4,7 @@ VM_SCRIPT_VERSION=0.01
 
 apt-get update
 apt-get -y upgrade
-apt-get -y install mc ssh git net-tools nginx php-fpm php-imagick php-gd vnstat xfsprogs
+apt-get -y install mc ssh git net-tools nginx php-fpm php-imagick php-gd vnstat xfsprogs php-libvirt-php
 alias ls="ls --color=always"
 rm -rf /var/www/html
 openssl req -x509 -newkey rsa:2048 -nodes -days $(expr '(' $(date -d 2999/01/01 +%s) - $(date +%s) + 86399 ')' / 86400) -subj "/" -keyout /etc/nginx/nginx.key -out /etc/nginx/nginx.crt
